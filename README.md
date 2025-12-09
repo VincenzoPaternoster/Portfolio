@@ -13,12 +13,12 @@ Each section links to individual projects hosted in dedicated repositories, each
 
 ## 🧵 1. Tableau & PowerBI
 
-- Tableau Dashboard
 - PowerBI Dashboard
+- Tableau Dashboard
 
 (here you can decide whether to link to the repository or insert the files directly)
-- [Project Name 1](LINK_REPOSITORY)
-- [Project Name 2](LINK_REPOSITORY)
+- [PowerBI-Sales-report-in-an-electronics-company](https://github.com/VincenzoPaternoster/PowerBI-Sales-report-in-an-electronics-company)
+- [Tableau-Data-Driven-Optimisation-for-Superstore-in-Europe](https://github.com/VincenzoPaternoster/Tableau-Data-Driven-Optimisation-for-Superstore-in-Europe)
 
 ---
 
