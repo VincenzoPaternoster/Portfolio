@@ -7,11 +7,16 @@ Each section links to individual projects hosted in dedicated repositories, each
 
 
 ---
+## 🔢 0. Excel
 
-## 📊 1. Data Visualisation
+- Data analysis in Excel
 
-Projects dedicated to dashboard creation, exploratory analysis, and data storytelling.
+## 🧵 1. Tableau & PowerBI
 
+- Tableau Dashboard
+- PowerBI Dashboard
+
+(here you can decide whether to link to the repository or insert the files directly)
 - [Project Name 1](LINK_REPOSITORY)
 - [Project Name 2](LINK_REPOSITORY)
 
@@ -54,17 +59,7 @@ Advanced queries, data cleaning, relational database analysis.
 
 ---
 
-## 🧵 6. Excel & PowerBI
-
-- Excel Dashboard
-- PowerBI Dashboard
-- Data analysis in Excel
-
-(here you can decide whether to link to the repository or insert the files directly)
-
----
-
-## 📚 7. Big Data
+## 📚 6. Big Data
 
 Projects dedicated to Hadoop, Spark, distributed systems.
 
@@ -73,7 +68,7 @@ Projects dedicated to Hadoop, Spark, distributed systems.
 
 ---
 
-## 🌍 8. Global Projects
+## 🌍 7. Global Projects
 
 Complete end-to-end or multidisciplinary projects.
 
