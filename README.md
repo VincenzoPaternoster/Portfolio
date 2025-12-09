@@ -68,7 +68,7 @@ Projects dedicated to Hadoop, Spark, distributed systems.
 
 ---
 
-## 🌍 7. Global Projects
+## 🌍 7. General Projects
 
 Complete end-to-end or multidisciplinary projects.
 
