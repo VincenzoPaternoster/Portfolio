@@ -9,7 +9,7 @@ Each section links to individual projects hosted in dedicated repositories, each
 ---
 ## 🔢 0. Excel
 
-- Data analysis in Excel
+Data analysis in Excel, inferential statistics
 
 - [Excel-Analysis-of-trading-operations](https://github.com/VincenzoPaternoster/Excel-Analysis-of-trading-operations)
 - [Excel-Random-data-and-linear-regression](https://github.com/VincenzoPaternoster/Excel-Random-data-and-linear-regression)
@@ -17,8 +17,7 @@ Each section links to individual projects hosted in dedicated repositories, each
 
 ## 🧵 1. Tableau & PowerBI
 
-- PowerBI Dashboard
-- Tableau Dashboard
+PowerBI Dashboard, Tableau Dashboard
 
 - [PowerBI-Sales-report-in-an-electronics-company](https://github.com/VincenzoPaternoster/PowerBI-Sales-report-in-an-electronics-company)
 - [Tableau-Data-Driven-Optimisation-for-Superstore-in-Europe](https://github.com/VincenzoPaternoster/Tableau-Data-Driven-Optimisation-for-Superstore-in-Europe)
@@ -78,8 +77,8 @@ Complete end-to-end or multidisciplinary projects.
 
 You can find me here:
 
-- [LinkedIn] (https://www.linkedin.com/in/vincenzo-paternoster)
-- [Website] (https://vincenzopaternoster.notion.site/Portfolio-2c2b124b793880d5aa65ced848f818fa?source=copy_link)
-- **Email:** ()
+- [LinkedIn](https://www.linkedin.com/in/vincenzo-paternoster)
+- [Website](https://vincenzopaternoster.notion.site/Portfolio-2c2b124b793880d5aa65ced848f818fa?source=copy_link)
+- **Email:** vincenzopaternoster99@gmail.com
 
 ---
