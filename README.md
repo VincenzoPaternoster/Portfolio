@@ -11,12 +11,15 @@ Each section links to individual projects hosted in dedicated repositories, each
 
 - Data analysis in Excel
 
+- [Excel-Analysis-of-trading-operations](https://github.com/VincenzoPaternoster/Excel-Analysis-of-trading-operations)
+- [Excel-Random-data-and-linear-regression](https://github.com/VincenzoPaternoster/Excel-Random-data-and-linear-regression)
+- [Excel-Consumer-Complaints-Analysis-Project](https://github.com/VincenzoPaternoster/Excel-Consumer-Complaints-Analysis-Project)
+
 ## 🧵 1. Tableau & PowerBI
 
 - PowerBI Dashboard
 - Tableau Dashboard
 
-(here you can decide whether to link to the repository or insert the files directly)
 - [PowerBI-Sales-report-in-an-electronics-company](https://github.com/VincenzoPaternoster/PowerBI-Sales-report-in-an-electronics-company)
 - [Tableau-Data-Driven-Optimisation-for-Superstore-in-Europe](https://github.com/VincenzoPaternoster/Tableau-Data-Driven-Optimisation-for-Superstore-in-Europe)
 
@@ -26,9 +29,7 @@ Each section links to individual projects hosted in dedicated repositories, each
 
 Predictive models, clustering, regression, and classification.
 
-- [RFM Segmentation Project](LINK_REPOSITORY)
-- [Clustering Customer Analytics](LINK_REPOSITORY)
-- [Predictive Model XYZ](LINK_REPOSITORY)
+- [Customer-segmentation-for-targeted-marketing-campaigns](https://github.com/VincenzoPaternoster/Customer-segmentation-for-targeted-marketing-campaigns)
 
 ---
 
@@ -36,8 +37,7 @@ Predictive models, clustering, regression, and classification.
 
 Text analysis, sentiment analysis, linguistic preprocessing.
 
-- [Sentiment Analysis on Reviews](LINK_REPOSITORY)
-- [Topic Modelling LDA](LINK_REPOSITORY)
+- [NLP-Detection-of-Fake-News ](https://github.com/VincenzoPaternoster/NLP-Detection-of-Fake-News)
 
 ---
 
@@ -45,8 +45,7 @@ Text analysis, sentiment analysis, linguistic preprocessing.
 
 Scripts, exercises, and general projects in Python.
 
-- [Automation with Python](LINK_REPOSITORY)
-- [XYZ dataset analysis](LINK_REPOSITORY)
+- [Python-Analysis-of-air-disasters-from-1919-to-2023 ](https://github.com/VincenzoPaternoster/Python-Analysis-of-air-disasters-from-1919-to-2023)
 
 ---
 
@@ -54,8 +53,8 @@ Scripts, exercises, and general projects in Python.
 
 Advanced queries, data cleaning, relational database analysis.
 
-- [SQL Case Study – Ecommerce](LINK_REPOSITORY)
-- [Query portfolio](LINK_REPOSITORY)
+- [SQL-Analysis-of-a-bank-s-customers](https://github.com/VincenzoPaternoster/SQL-Analysis-of-a-bank-s-customers)
+
 
 ---
 
@@ -63,8 +62,7 @@ Advanced queries, data cleaning, relational database analysis.
 
 Projects dedicated to Hadoop, Spark, distributed systems.
 
-- [Spark Basic Transformations](LINK_REPOSITORY)
-- [Big Data Pipeline](LINK_REPOSITORY)
+- [Bitcoin-Sentiment-Analysis-via-Tweets](https://github.com/VincenzoPaternoster/Bitcoin-Sentiment-Analysis-via-Tweets)
 
 ---
 
@@ -72,8 +70,7 @@ Projects dedicated to Hadoop, Spark, distributed systems.
 
 Complete end-to-end or multidisciplinary projects.
 
-- [Project XYZ](LINK_REPOSITORY)
-- [Business Case ABC](LINK_REPOSITORY)
+- [Analysis-of-an-e-commerce](https://github.com/VincenzoPaternoster/Analysis-of-an-e-commerce)
 
 ---
 
@@ -81,7 +78,8 @@ Complete end-to-end or multidisciplinary projects.
 
 You can find me here:
 
-- **LinkedIn:** https://www.linkedin.com/...
-- **Email:** tuo_email@gmail.com
+- [LinkedIn] (https://www.linkedin.com/in/vincenzo-paternoster)
+- [Website] (https://vincenzopaternoster.notion.site/Portfolio-2c2b124b793880d5aa65ced848f818fa?source=copy_link)
+- **Email:** ()
 
 ---
