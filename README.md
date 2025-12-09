@@ -59,7 +59,7 @@ Advanced queries, data cleaning, relational database analysis.
 
 ## 📚 6. Big Data
 
-Projects dedicated to Hadoop, Spark, distributed systems.
+Projects dedicated to Spark
 
 - [Bitcoin-Sentiment-Analysis-via-Tweets](https://github.com/VincenzoPaternoster/Bitcoin-Sentiment-Analysis-via-Tweets)
 
@@ -67,7 +67,7 @@ Projects dedicated to Hadoop, Spark, distributed systems.
 
 ## 🌍 7. General Projects
 
-Complete end-to-end or multidisciplinary projects.
+Complete end-to-end projects.
 
 - [Analysis-of-an-e-commerce](https://github.com/VincenzoPaternoster/Analysis-of-an-e-commerce)
 
