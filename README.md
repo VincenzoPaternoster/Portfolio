@@ -69,7 +69,7 @@ Projects dedicated to Spark
 
 Complete end-to-end projects.
 
-- [Analysis-of-an-e-commerce](https://github.com/VincenzoPaternoster/Analysis-of-an-e-commerce)
+- [E-commerce-sales-analysis](https://github.com/VincenzoPaternoster/E-commerce-sales-analysis)
 
 ---
 
