@@ -78,7 +78,6 @@ Complete end-to-end projects.
 You can find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/vincenzo-paternoster)
-- [Website](https://vincenzopaternoster.notion.site/Portfolio-2c2b124b793880d5aa65ced848f818fa?source=copy_link)
 - **Email:** vincenzopaternoster99@gmail.com
 
 ---
